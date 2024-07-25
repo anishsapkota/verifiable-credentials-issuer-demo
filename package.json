@@ -12,17 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "base64url": "^3.0.1",
-    "big-integer": "^1.6.52",
     "cors": "^2.8.5",
-    "elliptic": "^6.5.5",
     "express": "^4.19.2",
     "jose": "^5.4.0",
     "jsonwebtoken": "^9.0.2",
-    "oauth2orize": "^1.12.0",
-    "paillier-bigint": "^3.4.3",
     "prettier": "^3.3.2",
-    "secrets.js-grempe": "^2.0.0",
-    "shamir": "^0.7.1",
-    "shamirs-secret-sharing": "^2.0.0"
   }
 }
